@@ -1,6 +1,6 @@
 ---
-title: Welcome to Quartz
+title: Minhas notas e traduções
 ---
+Irei acumular lentamente aqui minhas anotações e traduções das coisas que estudo, com foco principal em economia, política e ciência da computação. Será uma mistura de traduções de trabalhos (livros, textos, etc) e anotações próprias.
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+- [[Lista de leitura]]
