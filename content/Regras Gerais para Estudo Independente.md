@@ -1,0 +1,19 @@
+Original [aqui](https://redsails.org/general-rules-for-independent-study/).
+
+---
+
+De *Provysim gramotnost* \[Aumentar a Alfabetização\], Número 3, 1934.
+
+---
+
+1. Para que a auto-educação seja bem-sucedida, é necessário desenvolver uma variedade de hábitos: ler para si mesmo, não ler muito lentamente; saber como usar livros, jornais, manuais e catálogos de bibliotecas; saber o que extrair o como anotar. Em outras palavras, para estudar bem sozinho, *deve-se possuir uma técnica auto-educacional mínima*.
+2. Estudo bem-sucedido requer observação de certas regras. É melhor estudar quando não encontra-se muito cansado, quando a cabeça, por assim dizer, está "fresca". Portanto, *é melhor estudar pela manhã ou depois que descansou-se*. Para não cansar-se rapidamente quando estudando *não deve-se estudar em um ambiente mal iluminado, meio escuro, abafado, superaquecido*. É difícil estudar quando tem muita conversa ao redor, quando se é constantemente distraído. É melhor estudar quando tem-se os manuais necessários, dicionários enciclopédicos, etc., ao dispor. Por isso que *é melhor estudar numa sala de leitura ou em uma biblioteca*.
+3. É necessário decidir-se sobre *o que quer-se estudar*. Algumas vezes uma pessoa quer estudar, mas não sabe o que. As coisas vão bem em uma fazenda coletiva ou numa fábrica porque há um plano. Assim é na auto-educação se há um plano, se a pessoa não pula de um livro pro outro — se ele não pula de história para literatura e de literatura para física. Não é útil estudar dessa maneira. Alguém quer aprender sobre o Partido, outro sobre fazendas coletivas, um terceiro sobre tecnologia, um quarto sobre a educação infantil, etc. Há alguns que querem completar um curso escolar de sete anos, outros que querem adquirir educação de ensino médio ou de escola técnica.
+4. Não é suficiente decidir o que se quer estudar; é necessário elaborar um *plano de estudos*. E essa é a coisa mais difícil de todas. O iniciante normalmente não sabe o volume de conhecimento que ele quer adquirir *nem o sistema*, isto é, a ordem na qual ele deve estudar, ler livros, etc. Nisso ele pode ser muito ajudado pelas listas de literatura recomendada, manuais de auto-educação, currículo, livros didáticos. *Mas é melhor se que primeiro falar com um especialista, consultá-lo*. Ele pode consultar professores, bibliotecários ou os consultantes que são normalmente contratados pelas bibliotecas para ajudar as pessoas que estudam independentemente. Bons conselhos também podem ser obtidos de agrônomos, engenheiros, médicos, etc. *Consultas antes de começar-se a estudar são de grande importância e frequentemente decididamente influenciam estudos adicionais*.
+5. Como deve-se estudar?
+	1. Não deve-se apressar ou, como as pessoas costumavam dizer, deve-se "apressar lentamente". Na auto-educação, a pressa é bem danosa.
+	2. Deve-se atentar a *clarificar todas as frases incompreensíveis*. Para fazer isso deve-se recorrer a dicionários enciclopédicos, perguntar as pessoas que sabem, consultantes.
+	3. *Deve-se re-ler o material que estudou-se;* isso aplica-se particularmente a algo que aprendeu-se na ocasião prévia.
+	4. *Não deve-se estudar com intervalos longos*, particularmente no início, quando o que estudou-se ainda não foi gravado em sua memória. Deve-se estudar regularmente.
+	5. *Extratos ajudam a lembrar*. É necessário anotar no seu caderno as partes mais importantes do que leu-se, explicações de palavras e expressões incompreensíveis, os nomes de cidades e pessoas, figuras. Deve-se re-ler suas anotações frequentemente. Deve-se escrever de forma legível, para não gastar tempo decifrando o que escreveu-se.
+6. É muito bom usar, se possível, livros didáticos de curso que encorajam correspondência com o publicador, oferecendo conselhos e ajuda em masterizar os assuntos estudados.

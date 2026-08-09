@@ -30,9 +30,9 @@ Lista original [aqui](https://lemmy.ml/post/22417306?sort=New).
 
 # Seção 0b: Auto educação
 
-*Quando começando a estudar um novo assunto, é importante enquadrar o porque estudar esse assuno será útil, bem como como melhor estudar.*
+*Quando começamos a estudar um novo assunto, é importante enquadrar o porque estudar esse assuno será útil, e também como melhor estudar.*
 
-1. [[Por Que Temos Que Estudar Teoria?]], [[Ho Chi Minh]]
+1. [[Por Que Temos Que Estudar Teoria?]], [[Hồ Chí Minh]]
 
 	Somente prática é insuficiente para desenvolver um entendimento sólido de metodologia efetiva.
 
@@ -144,7 +144,7 @@ Lista original [aqui](https://lemmy.ml/post/22417306?sort=New).
 
 *Entender os presentes movimentos de liberação nacional no sul global, bem como o problema do colonialismo de assentamento, é crucial para entender os mecanismos do império moderno*.
 
-1. [[The Path Which Led Me to Leninism]], [[Ho Chi Minh]]
+1. [[The Path Which Led Me to Leninism]], [[Hồ Chí Minh]]
 
 	Descolonização é fundamental ao [[Marxismo-Leninismo]].
 
@@ -244,7 +244,7 @@ Lista original [aqui](https://lemmy.ml/post/22417306?sort=New).
 
 	Tenacidade é o que cria vales e desloca montanhas. Através de nossa luta conectada, mesmo se as possibilidades pareçam esmagadoras, todos podemos contribuir em criar um mundo melhor.
 
-5. [[On Revolutionary Morality]], [[Ho Chi Minh]]
+5. [[On Revolutionary Morality]], [[Hồ Chí Minh]]
 
 	Devemos combater a noção de colocar o interesse próprio acima daquela da nossa luta coletiva. É através de colaboração que emanciparemos todos, não somente nós mesmos.
 
